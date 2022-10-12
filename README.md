@@ -1,2 +1,2 @@
 # hacktoberfest2022
-creating pr's
+Helping those who are new to open source in creating their very first Pull Request and educating them about Open Source.
