@@ -2,7 +2,7 @@ package fisrt;
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-
+// Here we print the numbers which are presents between 0 and 30.
 public class Codechef {
 
 	public static void main(String[] args) {
